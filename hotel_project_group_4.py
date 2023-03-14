@@ -101,3 +101,4 @@ elif yototabill>=30001:
     print("Total Amount to be paid after discount and offers  ~  ",0.70*yototabill)
 else:
     print("Our System Is Detecting Some Errors,Please Enter The Details Again.")
+ print("ANMOL")
